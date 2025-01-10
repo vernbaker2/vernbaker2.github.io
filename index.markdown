@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-[About]{% link /about.md %}
+[About]{% link about.md %}
 
 
 **HOME**
